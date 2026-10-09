@@ -33,5 +33,5 @@ Member no 4 - Manisi Yaswant
 Contribution - Penetrater
 Member no - 5 Alwaz Hussain
 Contribution - Tester
-Member no - 6 piush gupta
+Member no - 6 Piyush Gupta
 Contribution - Presentation ppt 
