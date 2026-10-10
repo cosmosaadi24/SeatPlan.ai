@@ -19,8 +19,7 @@ Times should look like `2026-10-10 09:00`.
 ## Notes
 Credits & Acknowledgements 
 Member No 1
-Aditya Munge
-Core Algo lead
+Aditya Munge- Core Algo lead
 Member No 2
 ​Project Lead & Core Developer: Somchand Ratangwal  
 ​Contributions: Streamlit dashboard development, exam seating allocation logic, room-capacity validation, rapid replanning, debugging, testing, and documentation.  
@@ -35,3 +34,14 @@ Member no - 5 Alwaz Hussain
 Contribution - Tester
 Member no - 6 Piyush Gupta
 Contribution - Presentation ppt 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+LIVE DEMO- CLICK BELOW TO TRY OUR PROJECT
+[https://seatplanai-iybo9kjbjz6u4yqdpsq7n6.streamlit.app}
+
+
+SOURCE CODE- [https://github.com/cosmosaadi24/SeatPlan.ai.git]
+
+
+-----------------------------------------------------------------------------------------------------------------------
