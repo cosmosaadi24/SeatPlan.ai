@@ -38,7 +38,7 @@ Contribution - Presentation ppt
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 LIVE DEMO- CLICK BELOW TO TRY OUR PROJECT
-[https://seatplanai-iybo9kjbjz6u4yqdpsq7n6.streamlit.app}
+[https://seatplanai-iybo9kjbjz6u4yqdpsq7n6.streamlit.app]
 
 
 SOURCE CODE- [https://github.com/cosmosaadi24/SeatPlan.ai.git]
